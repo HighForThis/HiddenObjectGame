@@ -1,0 +1,92 @@
+﻿{
+  "ConfigInfo" : [
+    {
+      "Key" : "MachineType",
+      "Value" : "1"
+    },
+    {
+      "Key" : "GameType",
+      "Value" : "1"
+    },
+    {
+      "Key" : "TrainType",
+      "Value" : "2"
+    },
+    {
+      "Key" : "Trajectory",
+      "Value" : "0"
+    },
+    {
+      "Key" : "Range",
+      "Value" : "0"
+    },
+    {
+      "Key" : "WarmUp",
+      "Value" : "0"
+    },
+    {
+      "Key" : "Train",
+      "Value" : "300"
+    },
+    {
+      "Key" : "Relax",
+      "Value" : "0"
+    },
+    {
+      "Key" : "Speed",
+      "Value" : "0"
+    },
+    {
+      "Key" : "MaxAssist",
+      "Value" : "400"
+    },
+    {
+      "Key" : "ActiveAssist",
+      "Value" : "20"
+    },
+    {
+      "Key" : "ResistiveAssist",
+      "Value" : "100"
+    },
+    {
+      "Key" : "ObstacleLength",
+      "Value" : "3"
+    },
+    {
+      "Key" : "Constraint",
+      "Value" : "0"
+    },
+    {
+      "Key" : "Mass",
+      "Value" : "60000"
+    },
+    {
+      "Key" : "MaxX",
+      "Value" : "13.49"
+    },
+    {
+      "Key" : "MinX",
+      "Value" : "2.43"
+    },
+    {
+      "Key" : "MaxY",
+      "Value" : "10.84"
+    },
+    {
+      "Key" : "MinY",
+      "Value" : "2.76"
+    },
+    {
+      "Key" : "VisualDeviation",
+      "Value" : "0"
+    },
+    {
+      "Key" : "Friction",
+      "Value" : "0"
+    },
+    {
+      "Key" : "TeachingPos",
+      "Value" : "0"
+    }
+  ]
+}

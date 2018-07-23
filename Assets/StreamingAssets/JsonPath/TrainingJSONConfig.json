@@ -1,0 +1,88 @@
+﻿{
+  "ConfigInfo" : [
+    {
+      "Key" : "ReportName",
+      "Value" : "傅利叶智能"
+    },
+    {
+      "Key" : "ReportType",
+      "Value" : "False"
+    },
+    {
+      "Key" : "ReportID",
+      "Value" : "14180119001"
+    },
+    {
+      "Key" : "TrainingStartDate",
+      "Value" : "1/19/2018 6:08:41 PM"
+    },
+    {
+      "Key" : "TrainingEndDate",
+      "Value" : "1/19/2018 6:08:56 PM"
+    },
+    {
+      "Key" : "TrailType",
+      "Value" : "5"
+    },
+    {
+      "Key" : "GameCategory",
+      "Value" : "1"
+    },
+    {
+      "Key" : "TotalScore",
+      "Value" : "12"
+    },
+    {
+      "Key" : "TotalTasks",
+      "Value" : "1"
+    },
+    {
+      "Key" : "TotalTime",
+      "Value" : "15"
+    },
+    {
+      "Key" : "TotalDistance",
+      "Value" : "1.00"
+    },
+    {
+      "Key" : "MaxSpeed",
+      "Value" : "0.00"
+    },
+    {
+      "Key" : "AvgSpeed",
+      "Value" : "16.02"
+    },
+    {
+      "Key" : "RangeOfMotion",
+      "Value" : "2"
+    },
+    {
+      "Key" : "ActiveProportion",
+      "Value" : "0.00"
+    },
+    {
+      "Key" : "Calorie",
+      "Value" : "0.01"
+    },
+    {
+      "Key" : "ResistiveForceLevel",
+      "Value" : "5"
+    },
+    {
+      "Key" : "MassLevel",
+      "Value" : "0"
+    },
+    {
+      "Key" : "SpasmCount",
+      "Value" : "0"
+    },
+    {
+      "Key" : "TrainingType",
+      "Value" : "4"
+    },
+    {
+      "Key" : "Remark",
+      "Value" : ""
+    }
+  ]
+}

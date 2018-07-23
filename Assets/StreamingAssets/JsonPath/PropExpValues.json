@@ -1,0 +1,112 @@
+{
+    "Passive": {
+        "Level1": {
+            "Min": 1,
+            "Max": 2
+        },
+        "Level2": {
+            "Min": 1,
+            "Max": 2
+        },
+        "Level3": {
+            "Min": 1,
+            "Max": 2
+        },
+        "Level4": {
+            "Min": 1,
+            "Max": 2
+        },
+        "Level5": {
+            "Min": 1,
+            "Max": 2
+        }
+    },
+    "Assistance": {
+        "Level1": {
+            "Min": 2,
+            "Max": 11
+        },
+        "Level2": {
+            "Min": 2,
+            "Max": 10
+        },
+        "Level3": {
+            "Min": 2,
+            "Max": 9
+        },
+        "Level4": {
+            "Min": 2,
+            "Max": 8
+        },
+        "Level5": {
+            "Min": 2,
+            "Max": 7
+        }
+    },
+    "Active": {
+        "Level1": {
+            "Min": 7,
+            "Max": 8
+        },
+        "Level2": {
+            "Min": 7,
+            "Max": 8
+        },
+        "Level3": {
+            "Min": 7,
+            "Max": 8
+        },
+        "Level4": {
+            "Min": 7,
+            "Max": 8
+        },
+        "Level5": {
+            "Min": 7,
+            "Max": 8
+        }
+    },
+    "Resistance": {
+        "Level1": {
+            "Min": 8,
+            "Max": 9
+        },
+        "Level2": {
+            "Min": 9,
+            "Max": 10
+        },
+        "Level3": {
+            "Min": 10,
+            "Max": 11
+        },
+        "Level4": {
+            "Min": 11,
+            "Max": 12
+        },
+        "Level5": {
+            "Min": 12,
+            "Max": 13
+        }
+    },
+    "Mass": {
+        "Level1": {
+            "Min": 10,
+            "Max": 16
+        },
+        "Level2": {
+            "Min": 9,
+            "Max": 18
+        },
+        "Level3": {
+            "Min": 8,
+            "Max": 20
+        },
+        "Level4": {
+            "Min": 7,
+            "Max": 22
+        },
+        "Level5": {
+            "Min": 6,
+            "Max": 24
+        }
+    }
+}

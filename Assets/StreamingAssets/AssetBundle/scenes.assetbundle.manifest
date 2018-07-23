@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 3662765863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7adb7b74ba4e9af29217256381c62e33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/HOGAssets/CS_Assets/CS_Scenes/CSIcons.unity
+Dependencies: []

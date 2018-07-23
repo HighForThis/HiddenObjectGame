@@ -1,0 +1,727 @@
+﻿{
+"ConfigInfo":
+[
+{"Key":"ViewUserTitle",
+"Value":"Accounts"},
+
+{"Key":"NewUserTitle",
+"Value":"New Profile"},
+
+{"Key":"Name",
+"Value":"Name"},
+
+{"Key":"NewUserNamePlaceholder",
+"Value":"Please input name"},
+
+{"Key":"NewUserCaseIDPlaceholder",
+"Value":"Please input ID"},
+
+{"Key":"CaseID",
+"Value":"ID"},
+
+{"Key":"BasicInformation",
+"Value":"Information"},
+
+{"Key":"Age",
+"Value":"Age:"},
+
+{"Key":"Male",
+"Value":"Male"},
+
+{"Key":"Female",
+"Value":"Female"},
+
+{"Key":"AgeUnit",
+"Value":" "},
+
+{"Key":"Height",
+"Value":"Height:"},
+
+{"Key":"HeightUnit",
+"Value":"cm"},
+
+{"Key":"Sex",
+"Value":"Gender:"},
+
+{"Key":"Weight",
+"Value":"Weight:"},
+
+{"Key":"WeightUnit",
+"Value":"kg"},
+
+{"Key":"Diagnosis",
+"Value":"Diagnosis:"},
+
+{"Key":"Phone",
+"Value":"Tel:"},
+
+{"Key":"Address",
+"Value":"Address:"},
+
+{"Key":"RelativeName",
+"Value":"Principal:"},
+
+{"Key":"RelativePhone",
+"Value":"Principal Tel:"},
+
+{"Key":"Remarks",
+"Value":"Notes:"},
+
+{"Key":"Save",
+"Value":"Save"},
+
+{"Key":"ShowUserTitle",
+"Value":"View Profile"},
+
+{"Key":"EditUserTitle",
+"Value":"Edit Profile"},
+
+{"Key":"Delete",
+"Value":"Delete"},
+
+{"Key":"Edit",
+"Value":"Edit"},
+
+{"Key":"Sure",
+"Value":"Confirm"},
+
+{"Key":"Cancel",
+"Value":"Cancel"},
+
+{"Key":"DeleteCase",
+"Value":"Delete current patient records?"},
+
+{"Key":"CaseSelectOrNew",
+"Value":"Please select or create account!"},
+
+{"Key":"NewPatientSuccess",
+"Value":"Patient record has created!"},
+
+{"Key":"PasswordError",
+"Value":"Wrong password!"},
+
+{"Key":"UpdateCaseSuccess",
+"Value":"Patient record has updated!"},
+
+{"Key":"AssessmentTitle",
+"Value":"Assessment"},
+
+{"Key":"AssessmentROMBtnName",
+"Value":"Range of Motion"},
+
+{"Key":"AssessmentROMTitle",
+"Value":"ROM Assessment"},
+
+{"Key":"AssessmentROMTheme",
+"Value":"Recent movement area"},
+
+{"Key":"AssessmentROMUnit",
+"Value":"cm*cm"},
+
+{"Key":"PassiveMode",
+"Value":"Passive Mode"},
+
+{"Key":"AssistiveMode",
+"Value":"Assistive Mode"},
+
+{"Key":"ActiveMode",
+"Value":"Active Mode"},
+
+{"Key":"ResistiveMode",
+"Value":"Resistive Mode"},
+
+{"Key":"AssessmentMode",
+"Value":"Range of Motion"},
+
+{"Key":"Analysis",
+"Value":"History"},
+
+{"Key":"History",
+"Value":"Analysis"},
+
+{"Key":"TeachingTitle",
+"Value":"Teaching Mode Instruction"},
+
+{"Key":"TeachingEnter",
+"Value":"Start"},
+
+{"Key":"TeachingSelection",
+"Value":"Teaching Mode Prescription"},
+
+{"Key":"QucikStart",
+"Value":"Qucik Start"},
+
+{"Key":"Setting",
+"Value":"Setting"},
+
+{"Key":"SelectUserPlaceholder",
+"Value":"Username or ID..."},
+
+{"Key":"InputPassword",
+"Value":"Please input the password"},
+
+{"Key":"PasswordPlaceholder",
+"Value":"Input password..."},
+
+{"Key":"Password",
+"Value":"Password"},
+
+{"Key":"SearchPatientError",
+"Value":"Cannot found current patient records, please correct and try again!！"},
+
+{"Key":"NewPatientError",
+"Value":"Please input the correct ID number!"},
+
+{"Key":"EmergencyMessage",
+"Value":"Emergency Stopping…"},
+
+{"Key":"EmergencyTips",
+"Value":"Please twist the Emergency Stop clockwise \nto continue the training…"},
+
+{"Key":"DisConnect",
+"Value":"Machine not connected!"},
+
+{"Key":"Reconnecting",
+"Value":"Connecting..."},
+
+{"Key":"Connected",
+"Value":"Machine connected!"},
+
+{"Key":"ReconnectionTips",
+"Value":"Please check the network cable is connected to the device and computer,\nmake sure the device is turned on."},
+
+{"Key":"NotCalibrated",
+"Value":"Device Not Calibrated"},
+
+{"Key":"Calibrated",
+"Value":"Device Calibrated"},
+
+{"Key":"Calibrating",
+"Value":"Calibrating..."},
+
+{"Key":"NoCalibrating",
+"Value":"Unable to calibrate, \n please go to Setting -> Calibration."},
+
+{"Key":"NoIgnore",
+"Value":"Please wait until the calibration finish."},
+
+{"Key":"CalibrationTips",
+"Value":"Please make sure the robot is turned on."},
+
+{"Key":"SpasmMessage",
+"Value":"Spasm Protection..."},
+
+{"Key":"SpasmTips",
+"Value":"Click the blank area  or press space to skip the recovery procedure."},
+
+{"Key":"SpasmResetting",
+"Value":"Keep relax, recovering now..."},
+
+{"Key":"SpasmRecovery",
+"Value":"Recovering spasm in <color=red>{0}</color> seconds"},
+
+{"Key":"SpasmRestart",
+"Value":"Training starts after <color=orange>{0}</color> seconds"},
+
+{"Key":"SpasmTraining",
+"Value":"Start training..."},
+
+{"Key":"SpasmOver",
+"Value":"Spasticity beyond limits, system now is in protection, please restart the training."},
+
+{"Key":"SpasmSkip",
+"Value":"Skip"},
+
+{"Key":"Exit",
+"Value":"Exit"},
+
+{"Key":"ShutDown",
+"Value":"Shut down"},
+
+{"Key":"Reconnect",
+"Value":"Reconnect"},
+
+{"Key":"Ignore",
+"Value":"Cancel"},
+
+{"Key":"Calibrate",
+"Value":"Calibrate"},
+
+{"Key":"Normal",
+"Value":"Normal"},
+
+{"Key":"Abnormal",
+"Value":"Abnormal"},
+
+{"Key":"GameTypes",
+"Value":"Game Types"},
+
+{"Key":"Trajectory",
+"Value":"Trajectory"},
+
+{"Key":"Range",
+"Value":"Range"},
+
+{"Key":"Speed",
+"Value":"Speed"},
+
+{"Key":"MaxAssist",
+"Value":"Assistive Force"},
+
+{"Key":"ActiveAssist",
+"Value":"Assistive Force"},
+
+{"Key":"ResistiveAssist",
+"Value":"Resistive Force"},
+
+{"Key":"ObstacleLength",
+"Value":"Virtual Wall"},
+
+{"Key":"Mass",
+"Value":"Inertia Level"},
+
+{"Key":"TrainingProcess",
+"Value":"Procedure"},
+
+{"Key":"RangeSmall",
+"Value":"Small"},
+
+{"Key":"RangeMedium",
+"Value":"Medium"},
+
+{"Key":"RangeLarge",
+"Value":"Large"},
+
+{"Key":"RangeCustom",
+"Value":"Custom"},
+
+{"Key":"LevelOne",
+"Value":"Level 1"},
+
+{"Key":"LevelTwo",
+"Value":"Level 2"},
+
+{"Key":"LevelThree",
+"Value":"Level 3"},
+
+{"Key":"LevelFour",
+"Value":"Level 4"},
+
+{"Key":"LevelFive",
+"Value":"Level 5"},
+
+{"Key":"WallShort",
+"Value":"Short"},
+
+{"Key":"WallMedium",
+"Value":"Medium"},
+
+{"Key":"WallLong",
+"Value":"Long"},
+
+{"Key":"Minute",
+"Value":"Mins"},
+
+{"Key":"Teaching",
+"Value":"Teaching"},
+
+{"Key":"BeginTraining",
+"Value":"Start"},
+
+{"Key":"Constraint",
+"Value":"Constraint"},
+
+{"Key":"VisualDeviation",
+"Value":"VisualDeviation"},
+
+{"Key":"Friction",
+"Value":"Friction"},
+
+{"Key":"VisualDevLVOne",
+"Value":"1"},
+
+{"Key":"VisualDevLVTwo",
+"Value":"1.5"},
+
+{"Key":"VisualDevLVThree",
+"Value":"2"},
+
+{"Key":"TimeOptions",
+"Value":"3,5,10,20,30,60,Customize"},
+
+{"Key":"InfoTitle",
+"Value":"Personal Information"},
+
+{"Key":"NameTitle",
+"Value":"Name："},
+
+{"Key":"AgeTitle",
+"Value":"Age："},
+
+{"Key":"CaseIDTitle",
+"Value":"ID："},
+
+{"Key":"SexTitle",
+"Value":"Gender："},
+
+{"Key":"PhoneTitle",
+"Value":"Tel："},
+
+{"Key":"TrainingTimeTitle",
+"Value":"Training Duration："},
+
+{"Key":"DiagnosisTitle",
+"Value":"Diagnosis："},
+
+{"Key":"ParameterTitle",
+"Value":"Training Parameters"},
+
+{"Key":"Report",
+"Value":"Report"},
+
+{"Key":"PassiveTraining",
+"Value":"Passive Movement"},
+
+{"Key":"AssistiveTraining",
+"Value":"Assistive Movement"},
+
+{"Key":"ActiveTraining",
+"Value":"Active Movement"},
+
+{"Key":"ResistiveTraining",
+"Value":"Resistive Movement"},
+
+{"Key":"AssessmentRange",
+"Value":"AssessmentRange"},
+
+{"Key":"TrailTypeTitle",
+"Value":"Trajectory："},
+
+{"Key":"RangeOfMotionTitle",
+"Value":"Range："},
+
+{"Key":"ResistiveForceTitle",
+"Value":"Resistance Level："},
+
+{"Key":"MassTitle",
+"Value":"Mass Level："},
+
+{"Key":"AnalysisTitle",
+"Value":"Result Analysis"},
+
+{"Key":"TotalScoreTitle",
+"Value":"Score："},
+
+{"Key":"ScoreUnit",
+"Value":" "},
+
+{"Key":"TotalTasksTitle",
+"Value":"Tasks Complete："},
+
+{"Key":"TotalTimeTitle",
+"Value":"Duration:"},
+
+{"Key":"TotalDistanceTitle",
+"Value":"Movement Distance："},
+
+{"Key":"SpeedTitle",
+"Value":"Movement Speed:"},
+
+{"Key":"CalorieTitle",
+"Value":"Energy Consumption："},
+
+{"Key":"SpasmCountTitle",
+"Value":"Spasm Times:"},
+
+{"Key":"RemarksTitle",
+"Value":"Notes"},
+
+{"Key":"RemarksPlaceholder",
+"Value":"Please input here..."},
+
+{"Key":"Print",
+"Value":"Print"},
+
+{"Key":"Level1",
+"Value":"One"},
+
+{"Key":"Level2",
+"Value":"Two"},
+
+{"Key":"Level3",
+"Value":"Three"},
+
+{"Key":"Level4",
+"Value":"Four"},
+
+{"Key":"Level5",
+"Value":"Five"},
+
+{"Key":"GraphLineTitle",
+"Value":"Actual Movement Trajectory"},
+
+{"Key":"GraphBarScoreTitle",
+"Value":"Score Tendency"},
+
+{"Key":"GraphBarScoreXAxisName",
+"Value":"Times"},
+
+{"Key":"GraphBarScoreYAxisName",
+"Value":"Score"},
+
+{"Key":"GraphBarProportionTitle",
+"Value":"Proportion of Active Motion "},
+
+{"Key":"GraphBarProportionXAxisName",
+"Value":"Times"},
+
+{"Key":"GraphBarProportionYAxisName",
+"Value":"Proportion/%"},
+
+{"Key":"GraphBarXAxisTitle",
+"Value":"Max-X"},
+
+{"Key":"GraphBarAxisXData1",
+"Value":"History"},
+
+{"Key":"GraphBarAxisXData2",
+"Value":"Current"},
+
+{"Key":"GraphBarAxisYName1",
+"Value":"Max-X/cm"},
+
+{"Key":"GraphBarYAxisTitle",
+"Value":"Max-Y"},
+
+{"Key":"GraphBarAxisYName2",
+"Value":"Max-Y/cm"},
+
+{"Key":"GraphAreaTitle",
+"Value":"Range of Assessment"},
+
+{"Key":"MinuteUnit",
+"Value":"min"},
+
+{"Key":"Second",
+"Value":"s"},
+
+{"Key":"Meter",
+"Value":"m"},
+
+{"Key":"CentimeterPerSecond",
+"Value":"cm/s"},
+
+{"Key":"KiloCalorie",
+"Value":"kCal"},
+
+{"Key":"Yes",
+"Value":"Yes"},
+
+{"Key":"No",
+"Value":"No"},
+
+{"Key":"SaveReportOrNot",
+"Value":"Save report or not?"},
+
+{"Key":"Export",
+"Value":"Export"},
+
+{"Key":"View",
+"Value":"View"},
+
+{"Key":"Training",
+"Value":"Training"},
+
+{"Key":"PassiveDescribe",
+"Value":"This training provides the patient with proprioceptive sensory feedback in absence of voluntary muscle activation and can be used to stretch muscles and increase the passive range of motion. (Muscle Strength Grade 0)"},
+
+{"Key":"AssistiveDescribe",
+"Value":"Robot can adjust the assistive force which allows patients to increase speed and complete difficult movements. This modality provides more normal proprioceptive feedback during the movement.(Muscle Strength Grade 1-2)"},
+
+{"Key":"ActiveDescribe",
+"Value":"Robot does not provide any assistive or resistive force during the movement. Users need to complete the movement independently. (Muscle Strength Grade 3)"},
+
+{"Key":"ResistiveDescribe",
+"Value":"Robot can adjust different level of resistive force. Users need to against the resistive force during the movement to help increase the muscle strength.( Muscle Strength Grade 4-5)"},
+
+{"Key":"Date",
+"Value":"Date"},
+
+{"Key":"Time",
+"Value":"Time"},
+
+{"Key":"Score",
+"Value":"Score"},
+
+{"Key":"Mode",
+"Value":"Mode"},
+
+{"Key":"SpasmSensitivity",
+"Value":"Spasm Sensitivity"},
+
+{"Key":"SpasmLow",
+"Value":"Low"},
+
+{"Key":"SpasmMedium",
+"Value":"Medium"},
+
+{"Key":"SpasmHigh",
+"Value":"High"},
+
+{"Key":"DepartmentName",
+"Value":"Institute"},
+
+{"Key":"MotorStatus",
+"Value":"Device Status"},
+
+{"Key":"ClearAlarm",
+"Value":"CAlarm"},
+
+{"Key":"ClearFault",
+"Value":"CFault"},
+
+{"Key":"ForceSensingX",
+"Value":"XForce Sensing(X)"},
+
+{"Key":"ForceSensingY",
+"Value":"YForce Sensing(Y)"},
+
+{"Key":"AdvancedSetting",
+"Value":"Advanced Setting"},
+
+{"Key":"DTC",
+"Value":"DTC"},
+
+{"Key":"Open",
+"Value":"Open"},
+
+{"Key":"DTCOpen",
+"Value":"Open"},
+
+{"Key":"NetworkStatus",
+"Value":"Network Status："},
+
+{"Key":"SoftWareVersion",
+"Value":"Software Version："},
+
+{"Key":"AlgorithmVersion",
+"Value":"Algorithm Version："},
+
+{"Key":"HardwareVersion",
+"Value":"Hardware Version："},
+
+{"Key":"MachineVersion",
+"Value":"Machanics Version："},
+
+{"Key":"SNText",
+"Value":"SN Number："},
+
+{"Key":"IntroductionTitle",
+"Value":"Company Profile"},
+
+{"Key":"IntroductionContent",
+"Value":"Fourier Intelligence is a technology company providing exoskeleton robotic products and service on rehabilitation & orthoses locate in China. By integrating the cutting-edge technology, we will continue to work on developing original products and bring new vision of collaborative rehab-robot & exoskeleton products to the world. Fourier Transforms Human Capabilities!"},
+
+{"Key":"AddressTitle",
+"Value":"Contact Us"},
+
+{"Key":"AddressContent",
+"Value":"Shanghai Fourier Intelligence Co., Ltd\n1st floor, Building 11, No.68 Huatuo Road,\nPudong District, Shanghai, China.201203"},
+
+{"Key":"Close",
+"Value":"Close"},
+
+{"Key":"SetSysConfigSuccess",
+"Value":"Setting saved!"},
+
+{"Key":"Account",
+"Value":"Account"},
+
+{"Key":"RangeTooSmall",
+"Value":"Range is too samll, this is not saved! Prepare to exit?"},
+
+{"Key":"TieHand",
+"Value":"Please place and fix the patient’s affected limb on the handle by using the glove."},
+
+{"Key":"Random",
+"Value":"Random"},
+
+ {"Key":"WarmUp",
+"Value":"Warm Up"},
+
+ {"Key":"Relax",
+"Value":"Relax"},
+
+   {"Key":"Exercise",
+"Value":"Exercise"},
+
+   {"Key":"ParaSetting",
+"Value":"Settings"},
+
+  {"Key":"Calibration",
+"Value":"Calibration"},
+
+  {"Key":"SystemInfo",
+"Value":"Information"},
+
+  {"Key":"Manual",
+"Value":"Instructions"},
+
+  {"Key":"About",
+"Value":"About us"},
+
+{"Key":"RangePrompt",
+"Value":"Corresponds to the range of motion in teaching mode"},
+
+  {"Key":"M2Name",
+"Value":"Fourier M2"},
+
+   {"Key":"M2PName",
+"Value":"Fourier M2P"},
+
+      {"Key":"M2PLHName",
+"Value":"Fourier M2Plus-LH"},
+
+   {"Key":"ROMAnimatorTipA",
+"Value":"Please hold the handle"},
+
+{"Key":"ROMAnimatorB",
+"Value":"Please reach the area as more as possible"},
+
+{"Key":"PassiveTip",
+"Value":"Passive range of motion"},
+
+{"Key":"AssistiveTip",
+"Value":"Adjust the assistive force"},
+
+{"Key":"ActiveTip",
+"Value":"Active movement"},
+
+{"Key":"ResistiveTipA",
+"Value":"Robot provides the resistive force"},
+
+{"Key":"ResistiveTipB",
+"Value":"Users against the resistive force"},
+
+{"Key":"TeachingTipA",
+"Value":"Select the points on white board"},
+
+{"Key":"TeachingTipB",
+"Value":"Save the trajectory"},
+
+{"Key":"Clear",
+"Value":"Clear"},
+
+{"Key":"FaultMessage",
+"Value":"Equipment Fault"},
+
+{"Key":"FaultTips",
+"Value":"Equipment System Fault, Please click the \"Clear\" button."},
+
+{"Key":"DeleteReportSuccess",
+"Value":"Report deleted!"},
+
+{"Key":"DeleteReportFailed",
+"Value":"Error!"}
+]
+}

@@ -1,0 +1,80 @@
+﻿{
+  "ConfigInfo" : [
+    {
+      "Key" : "CaseID",
+      "Value" : "3jios8"
+    },
+    {
+      "Key" : "Name",
+      "Value" : "Ejwo"
+    },
+    {
+      "Key" : "Sex",
+      "Value" : "1"
+    },
+    {
+      "Key" : "Age",
+      "Value" : "12"
+    },
+    {
+      "Key" : "Department",
+      "Value" : "12"
+    },
+    {
+      "Key" : "Diagnosis",
+      "Value" : "12"
+    },
+    {
+      "Key" : "Height",
+      "Value" : "12"
+    },
+    {
+      "Key" : "Weight",
+      "Value" : "12"
+    },
+    {
+      "Key" : "PhoneNumber",
+      "Value" : "12"
+    },
+    {
+      "Key" : "Address",
+      "Value" : "1212"
+    },
+    {
+      "Key" : "Relative",
+      "Value" : "Was"
+    },
+    {
+      "Key" : "RelativePhone",
+      "Value" : "12"
+    },
+    {
+      "Key" : "Remark",
+      "Value" : "12"
+    },
+    {
+      "Key" : "CreateDate",
+      "Value" : "6/13/2017 11:53:13 AM"
+    },
+    {
+      "Key" : "UpdateDate",
+      "Value" : "1/19/2018 6:09:05 PM"
+    },
+    {
+      "Key" : "AvatarID",
+      "Value" : "4"
+    },
+    {
+      "Key" : "PlayerID",
+      "Value" : "3jios8"
+    },
+    {
+      "Key" : "Level",
+      "Value" : "1"
+    },
+    {
+      "Key" : "Exp",
+      "Value" : "521"
+    }
+  ]
+}
